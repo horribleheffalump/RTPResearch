@@ -172,7 +172,7 @@
             this.textBoxFileName.Name = "textBoxFileName";
             this.textBoxFileName.Size = new System.Drawing.Size(259, 20);
             this.textBoxFileName.TabIndex = 3;
-            this.textBoxFileName.Text = "D:\\Наука\\projects\\RTPResearch\\CAPTools\\Data\\data 2015-12-7 21-29 - 3g 20min\\rawda" +
+            this.textBoxFileName.Text = "..\\RTPResearch\\CAPTools\\Data\\data 2015-12-7 21-29 - 3g 20min\\rawda" +
     "ta.txt";
             // 
             // backgroundWorkerReader
